@@ -24,6 +24,14 @@
             Ce projet a pour objectif d’optimiser la planification et d’aider les professionnels
             à mieux gérer leurs projets de construction.
         </p>
+
+        <section class="reveal">
+    <h1>Bienvenue</h1>
+</section>
+
+<div class="reveal">
+    Ton contenu ici
+</div>
     </div>
 
 </div>

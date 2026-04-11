@@ -26,6 +26,14 @@
         Mon objectif est de devenir un développeur full-stack capable de concevoir des solutions complètes et efficaces répondant aux besoins réels.
     </p>
 
+    <section class="reveal">
+    <h1>Bienvenue</h1>
+</section>
+
+<div class="reveal">
+    Ton contenu ici
+</div>
+
 </div>
 
 @endsection

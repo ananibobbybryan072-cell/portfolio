@@ -26,3 +26,6 @@ Route::get('/contact', function () {
 Route::get('/skills', function () {
     return view('skills');
 });
+Route::get('/experience', function () {
+    return view('experience');
+});
