@@ -31,7 +31,7 @@
 
 <div class="reveal">
     Ton contenu ici
-</div>
+</div> 
     </div>
 
 </div>

@@ -4,7 +4,7 @@
 
 <!-- HERO -->
 <section class="section hero reveal">
-    <h1>Bienvenue, je suis</h1>
+    <h1>Bienvenue dans mon HubSpace, je suis</h1>
     <h2>Bobby Bryan Mbida Anani</h2>
     <p>Développeur Web Junior - Laravel / PHP</p>
 

@@ -29,3 +29,7 @@ Route::get('/skills', function () {
 Route::get('/experience', function () {
     return view('experience');
 });
+
+Route::get('/evolution', function () {
+    return view('evolution');
+});

@@ -56,7 +56,7 @@
 
                 <p>
                     Logiciel d’estimation des coûts et délais de construction
-                    adapté au contexte camerounais.
+                    adapté au contexte camerounais et Africain.
                 </p>
 
                 <span>2026 - En cours</span>
@@ -80,7 +80,7 @@
 
                 <p>
                     Formation en Informatique et Développement Web :
-                    PHP, Laravel, JavaScript, Python.
+                    PHP, Laravel, JavaScript, Python, django et bases de données.
                 </p>
 
                 <span>2023 - 2026</span>

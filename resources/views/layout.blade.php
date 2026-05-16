@@ -225,6 +225,8 @@
     <a href="/projects">Projets</a>
     <a href="/contact">Contact</a>
     <a href="/experience">Parcours</a>
+    <a href="/evolution">Mon Evolution</a>
+
 </div>
 
 <!-- SCROLL REVEAL -->
